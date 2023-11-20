@@ -3,7 +3,7 @@ Keyboard layout based on the QWERTY layout with extra symbols and diacritics so 
 
 [![Keyboard layout screenshot](qwerty-fr-keymap.png)](https://qwerty-fr.org)
 
-👉 This is a fork of the [qwerty-fr](https://qwerty-fr.org) that is designed to be better suited to Frenchand is easier to learn because the Alt-Gr key corresponds to the most popular diacritic in French instead of grave accents when they are less common.
+👉 This is a fork of the [qwerty-fr](https://qwerty-fr.org) that is designed to be better suited to French and is easier to learn because the Alt-Gr key corresponds to the most popular diacritic in French instead of systematically mapping to grave accents when those are less common in (on i or o).
 
 ## 💭 Why?
 
