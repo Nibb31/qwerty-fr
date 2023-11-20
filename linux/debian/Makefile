@@ -5,6 +5,8 @@ GZ=gzip -f9
 CP=cp
 MV=mv -f
 MKD=mkdir -p
+SHELL=/bin/bash
+
 
 PKG=xkb-qwerty-fr
 VER=0.7.2
