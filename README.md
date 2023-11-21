@@ -3,7 +3,24 @@ Keyboard layout based on the QWERTY layout with extra symbols and diacritics so 
 
 [![Keyboard layout screenshot](qwerty-fr-keymap.png)](https://qwerty-fr.org)
 
-👉 This is a fork of the [qwerty-fr](https://qwerty-fr.org) that is designed to be better suited to French and is easier to learn because the Alt-Gr key corresponds to the most popular diacritic in French instead of systematically mapping to grave accents when those are less common in (on i or o).
+👉 This is a fork of the [qwerty-fr](https://qwerty-fr.org) that is designed to be better suited to French and is easier to learn because the Alt-Gr key corresponds to the most popular diacritic in French instead of systematically mapping to grave accents when those are not used in French (on ì or ò). Therefore, compared to the original [qwerty-fr](https://qwerty-fr.org), this version implements the following major changes:
+
+- AltGr+E is é, AltGr+D is è
+- AltGr+I is ï
+- AltGr+O is œ
+- AltGr+u is ù
+- Circumflex are all AltGr+the key above the vowel (example: â is AltGr+Q)
+- Trema (only ë and ü in French) are the character to the left of the vowel (ë is on AltGr+W). ï is on AltGr+I.
+- All of the above are capitalized with Shift.
+
+
+In addition:
+- The ß character is moved to the S key (as it corresponds to a double S in German).
+- The µ character is added to the M key.
+- The ³ character has been added as Shift+AltGr+2.
+- The ° is added to the 0 key.
+- The € is AltGr+4, the £ is Shift+AltGr+4
+- The ‰ is AltGr+5.
 
 ## 💭 Why?
 
