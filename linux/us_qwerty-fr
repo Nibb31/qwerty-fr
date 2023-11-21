@@ -45,7 +45,7 @@ xkb_symbols "qwerty-fr"
     key <AC09> { [ l,            L,           odiaeresis,             Odiaeresis           ] };
     key <AC10> { [ semicolon,    colon,       dead_acute,             dead_abovering       ] };
     key <AC11> { [ apostrophe,   quotedbl,    dead_grave,             dead_diaeresis       ] };
-    key <BKSL> { [ backslash,    bar,         VoidSymbol,             VoidSymbol           ] };
+    key <BKSL> { [ backslash,    bar,         VoidSymbol,             doublelowquotemark   ] };
 
     key <LSGT> { [ less,         greater,     lessthanequal,          greaterthanequal     ] };
     key <AB01> { [ z,            Z,           adiaeresis,             Adiaeresis           ] };
@@ -55,10 +55,10 @@ xkb_symbols "qwerty-fr"
     key <AB05> { [ b,            B,           VoidSymbol,             VoidSymbol           ] };
     key <AB06> { [ n,            N,           ntilde,                 Ntilde               ] };
     key <AB07> { [ m,            M,           mu,                     VoidSymbol           ] };
-    key <AB08> { [ comma,        less,        lessthanequal,          VoidSymbol           ] };
-    key <AB09> { [ period,       greater,     greaterthanequal,       VoidSymbol           ] };
+    key <AB08> { [ comma,        less,        lessthanequal,          dead_cedilla         ] };
+    key <AB09> { [ period,       greater,     greaterthanequal,       dead_ogonek           ] };
     key <AB10> { [ slash,        question,    questiondown,           VoidSymbol           ] };
-    key <SPCE> { [ space,        space,       nobreakspace,           VoidSymbol           ] };
+    key <SPCE> { [ space,        space,       nobreakspace,           0x100202F            ] }; // espace insécable fine
 
 };
 
