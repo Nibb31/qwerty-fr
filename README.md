@@ -13,14 +13,15 @@ Keyboard layout based on the QWERTY layout with extra symbols and diacritics so 
 - Trema (only ë and ü in French) are the character to the left of the vowel (ë is on AltGr+W). ï is on AltGr+I.
 - All of the above are capitalized with Shift.
 
-
-In addition:
+In addition, this forked layout is better suited to scientific and academic units as well as Spanish and German.
 - The ß character is moved to the S key (as it corresponds to a double S in German).
 - The µ character is added to the M key.
 - The ³ character has been added as Shift+AltGr+2.
 - The ° is added to the 0 key.
+- The Å character (as in ångström) can be made with a the AltGr+Shift+0 dead key.
 - The € is AltGr+4, the £ is Shift+AltGr+4
 - The ‰ is AltGr+5.
+- The § character (paragraph) is on AltGr+P.
 
 ## 💭 Why?
 
